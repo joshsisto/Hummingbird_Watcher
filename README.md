@@ -2,9 +2,8 @@
 
 <img src="hbird.jpg" alt="Humming bird capture" style="width: 200px;"/>
 
-These are the configuration files used with  
-[motion](https://github.com/Motion-Project/motion) 
-to capture usb webcam footage. 
+These are the configuration files used with 
+[motion](https://github.com/Motion-Project/motion) to capture usb webcam footage.
 
 I'm currently using a 
 [raspberry pi](http://amzn.to/2yBgiIi) 
