@@ -39,3 +39,6 @@ Use the command below to enable motion on system startup
  ```shell
  $ sudo systemctl enable motion
 ```
+
+## Copyright and License
+Copyright (c) 2017 Josh Sisto [MIT License](/LICENSE)
